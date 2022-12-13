@@ -1,1 +1,10 @@
 C:\Users\User\Desktop\Проекты С++\Raley\Raley\bin\Debug\Raley.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Raley\Raley\Raley\bin\Debug\Raley.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Raley\Raley\Raley\bin\Debug\Raley.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Raley\Raley\Raley\bin\Debug\Raley.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Raley\Raley\Raley\obj\Debug\Raley.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Raley\Raley\Raley\obj\Debug\Raley.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Raley\Raley\Raley\obj\Debug\Raley.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Raley\Raley\Raley\obj\Debug\Raley.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Raley\Raley\Raley\obj\Debug\Raley.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Raley\Raley\Raley\obj\Debug\Raley.pdb
